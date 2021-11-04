@@ -1,0 +1,23 @@
+{
+"name":"milanOnline",
+"short_name":"milanOnline",
+"icons":[
+{
+"src":"https://blogger.googleusercontent.com/img/a/AVvXsEiLkij3-LkTj0GUUUu48hfDlmpaNjFAf3Wq9D4rNhqPkzMU_zd3JqL-yk4kgyZiH_SFKTJmXABxqFm2Vd_jqIJBg11E_fdIKIQnrw0JnG9N6UscO2AS0r0Jq_M9krBFRXPkdzcANC_LZxu3Kb3lXvPrhTIXF_4pgJzzFNCf-1lSlUBgw1fdUwj-wfoJ=s192",
+"sizes":"192x192",
+"type":"image/png",
+"purpose": "any maskable"
+},
+{
+"src":"https://blogger.googleusercontent.com/img/a/AVvXsEg7TERyEveA5cpTbFY68iKifYIEAX-IXoC7rhSAZQy2CbMMV1m5am2tiruaZ44ltloU8KZgVO0EFKvAfpuAIYhOBAuU7euq6Ub425odvr-2FlSHUH9tbRa86ssgFqLGkoAyd8sl12-Q0D61JBGcSHVZIpgmUqUkDU41bANRg4cTlVDyfLJ5L2-6F5xk=s512",
+"sizes":"512x512",
+"type":"image/png",
+"purpose": "any maskable"
+}
+],
+"theme_color":"#ffffff",
+"background_color":"#ffffff",
+"display":"standalone",
+"prefer_related_applications": false,
+"start_url": "https://www.milankantony.online"
+}
